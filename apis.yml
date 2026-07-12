@@ -42,6 +42,8 @@ apis:
       - type: x-ckan-version
         value: '2.8.9'
 common:
+  - type: DomainSecurity
+    url: security/opendata-comune-modena-it-domain-security.yml
   - type: Website
     url: https://opendata.comune.modena.it
   - type: Documentation
